@@ -17,7 +17,7 @@ const Footer = () => {
                             Twitter
                         </a>
                         <a
-                            href="#"
+                            href="https://www.linkedin.com/in/pranay-pazare"
                             className={"transition-colors hover:text-yellow-500"}
                             target="_blank"
                             rel="noreferrer"
@@ -25,7 +25,7 @@ const Footer = () => {
                             LinkedIn
                         </a>
                         <a
-                            href="#"
+                            href="https://github.com/PranayBlocsys"
                             className={"transition-colors hover:text-yellow-500"}
                             target="_blank"
                             rel="noreferrer"
@@ -33,29 +33,29 @@ const Footer = () => {
                             GitHub
                         </a>
                         <a
-                            href="#"
+                            href="https://medium.com/@pranay_20196/about"
                             className={"transition-colors hover:text-yellow-500"}
                             target="_blank"
                             rel="noreferrer"
                         >
                             Medium
                         </a>
-                        <a
+                        {/* <a
                             href="#"
                             className={"transition-colors hover:text-yellow-500"}
                             target="_blank"
                             rel="noreferrer"
                         >
                             DEV
-                        </a>
-                        <a
+                        </a> */}
+                        {/* <a
                             href="#"
                             className={"transition-colors hover:text-yellow-500"}
                             target="_blank"
                             rel="noreferrer"
                         >
                             Hashnode
-                        </a>
+                        </a> */}
                     </div>
                 </div>
             </div>
