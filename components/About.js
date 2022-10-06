@@ -12,12 +12,19 @@ const About = () => {
           </h1>
           <div className="mt-6 text-gray-800 dark:text-white">
             <p className="mb-4">
-              I'm a Developer and I work as a Full Stack Developer at Blocsys
-              Technologies. Currently developing apps on React, Redux,
-              Amazon Web Services . New to Next.js, Tailwindcss and Figma. Welcome to my digital
-              garden, where I share what I'm learning about shipping great
-              products, becoming a better developer and growing a career in
-              tech. Let’s Make the Web. Faster 🚀
+              I'm a Developer and I work as a Full Stack Developer at{" "}
+              <strong>Blocsys Technologies.</strong>
+              <p className="mb-4">
+                <br /> Currently developing apps on React, Redux, Amazon Web
+                Services . New to Next.js, Tailwindcss and Figma.
+              </p>
+              <p className="mb-4">
+              <br /> Welcome to my digital garden, where I share what I'm
+              learning about shipping great products, becoming a better
+              developer and growing a career in tech.
+              </p>
+              <br />{" "}
+              <strong>Let’s Make the Web. Faster 🚀 </strong>
             </p>
           </div>
         </div>
